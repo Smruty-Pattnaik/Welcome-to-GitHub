@@ -1,0 +1,12 @@
+Git is a Distributed Version Control System(DVCS).
+It handles all the things like merging of different source code from different people 
+and maintaining the versions.
+
+If we are working in a company,all the codes are stored in a server.
+So if incase server fails then all the codes will be deleted.
+To improve this,we can have our own copy/local repository
+  which in present in the remote repository.So if the server fails,
+  we will not loose the codes and can use them in need and later upload it in the server.
+  This is called DVCS-local repository is distributed amonmg the developers.
+  
+  GitHub is web based interface which uses Git.
